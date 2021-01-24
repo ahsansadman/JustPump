@@ -1,0 +1,4 @@
+Petrol,9850.0
+Octane,9900.0
+Diesel,9970.0
+Kerosene,10000.0
